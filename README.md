@@ -10,6 +10,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 .Br
+
 . 👋 Olá, me chamo Lucas.
 
 . 🎮 Tenho interesse em desenvolvimento de jogos, Game design, desenvolvimento front-end e back-end.
