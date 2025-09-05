@@ -4,16 +4,16 @@
 
 . 🎮 I'm passionite about Game Development, Game Design, Front-end, and Back-end Development.
 
-. 📚 Currently learning **C++**, **C#** and **SQL** in college.
+. 📚 Currently learning **C++**, **C#**, and **SQL** in college.
 
-. 🤝 Open to collaborate on game projects or contributing to an open-source projects.
+. 🤝 Open to collaborating on game projects or contributing to an open-source projects.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 .Br
 
 . 👋 Olá, me chamo Lucas.
 
-. 🎮 Sou entusiasta de desenvolvimento de jogos, Game design, desenvolvimento Front-end e Back-end.
+. 🎮 Sou entusiasta de desenvolvimento de jogos, game design, desenvolvimento Front-end e Back-end.
 
 . 📚 Atualmente estou aprendendo **C++**, **C#** e **SQL** na faculdade.
 
